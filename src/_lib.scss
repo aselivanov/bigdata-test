@@ -1,0 +1,20 @@
+// Global Bootstrap overrides
+$body-bg: #0D2B4D;
+$body-color: #FEFEFE;
+$link-color: #fefefe;
+$link-hover-decoration: none;
+$border-radius: 20px;
+$input-bg: #393D75;
+$input-color: #fff;
+$border-width: 0;
+
+// \
+
+@import 'bootstrap/scss/_functions';
+@import 'bootstrap/scss/_variables';
+
+@import 'bootstrap/scss/mixins/_breakpoints';
+@import 'bootstrap/scss/mixins/_lists';
+
+// @import "mixins/grid-framework";
+// @import "mixins/grid";
